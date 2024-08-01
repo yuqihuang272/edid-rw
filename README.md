@@ -2,6 +2,18 @@
 
 > Fork maintained at <https://github.com/rpavlik/edid-decode>
 
+## Project/Repository status
+
+The upstream project is now active again: [edid-decode](https://git.linuxtv.org/edid-decode.git/)
+
+Please direct your contributions there.
+
+This friendly fork worked when I used it last, but I lack the capacity to maintain this on my own in any reasonable sense.
+
+**This fork is unmaintained.**
+
+## Introduction
+
 A friendly fork of the upstream [edid-decode](https://git.linuxtv.org/edid-decode.git/) tool
 (formerly maintained on freedesktop.org with XOrg),
 with an emphasis on dealing with/providing useful info on displays (especially HMDs) seen in the wild,
@@ -21,7 +33,7 @@ here are likely to get out of date quickly.
 
 For a complete list of changes, please see the commit log:
 each commit contains as complete of information as possible on their source.
-Commits not otherwise attributed were written by myself (Ryan Pavlik).
+Commits not otherwise attributed were written by myself (Rylie Pavlik).
 The `master` branch is left synced with whatever the upstream `master` branch was
 at the last time I updated this repo.
 
